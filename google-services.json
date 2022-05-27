@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:169383873648:android:31529e533edba68a05f8b5",
         "android_client_info": {
-          "package_name": "com.internshala.javaproject"
+          "package_name": "br.com.whatsapp.cursoandroid.whatsapp"
         }
       },
       "oauth_client": [
